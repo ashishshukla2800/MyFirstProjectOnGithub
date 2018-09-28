@@ -1,2 +1,6 @@
 welcom to github.
 it my first git file.
+second time opened
+
+
+Thanks
