@@ -1,0 +1,2 @@
+welcom to github.
+it my first git file.
